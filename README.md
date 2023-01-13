@@ -7,4 +7,8 @@
 <code>🧑‍💻 Languages: JavaScript</code>
 <code>📦 Tech stack: Node.JS, PostgreSQL, MySQL</code><br>
 <code>💬 Telegram: [@iLabiak](https://telegram.me/iLabiak)</code>
-<code>📫 [My mail](mailto:labyak.ivan2003@gmail.com)</code>
+<code>📫 [My mail](mailto:labyak.ivan2003@gmail.com)</code><br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ILabiak/count.svg" />
+</p>
