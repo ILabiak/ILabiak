@@ -5,6 +5,6 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code>
 <code>🧑‍💻 Languages: JavaScript</code>
-<code>📦 Tech stack: Node.JS, PostgreSQL, MySQL</code><br>
+<code>📦 Tech stack: Node.JS, PostgreSQL, MySQL, OracleSQL</code><br>
 <code>💬 Telegram: [@iLabiak](https://telegram.me/iLabiak)</code>
 <code>📫 [My mail](mailto:labyak.ivan2003@gmail.com)</code>
